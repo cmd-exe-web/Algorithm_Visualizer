@@ -1,8 +1,6 @@
 """
 Sorting Algorithm Visualiser
 
-Created 01/08/19
-Developed by Fraser Love
 
 Visualiser to be used with sorting algorithms provided in sorting_algorithms.py. There 12
 algorithms are provided including: selection sort, bubble sort, insertion sort, shell sort
