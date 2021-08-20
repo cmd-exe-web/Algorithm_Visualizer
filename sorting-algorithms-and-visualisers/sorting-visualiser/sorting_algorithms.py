@@ -1,8 +1,5 @@
 """
-Implementation of 12 Sorting Algorithms
 
-Created 01/08/19
-Developed by Fraser Love
 
 This is a OOP based implementation of some of the most common sorting algorithms. The
 reason that OOP was used instead of functional programming was to help me understand
